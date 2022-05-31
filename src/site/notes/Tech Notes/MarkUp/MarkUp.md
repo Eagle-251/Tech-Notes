@@ -3,8 +3,3 @@
 ---
 
 # MarkUp
-
-- **[[Tech Notes/MarkUp/MarkUp|MarkUp]]**
-	- [[Tech Notes/MarkUp/yaml|yaml]]
-
-

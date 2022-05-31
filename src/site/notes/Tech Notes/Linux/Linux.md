@@ -3,10 +3,3 @@
 ---
 
 # Linux
-
-- **[[Tech Notes/Linux/Linux|Linux]]**
-	- [[Tech Notes/Linux/Direnv|Direnv]]
-	- [[Tech Notes/Linux/fzf|fzf]]
-	- [[Tech Notes/Linux/Kitty|Kitty]]
-
-

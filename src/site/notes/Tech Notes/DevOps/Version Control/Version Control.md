@@ -3,8 +3,3 @@
 ---
 
 # Version Control
-
-- **[[Tech Notes/DevOps/Version Control/Version Control|Version Control]]**
-	- [[Tech Notes/DevOps/Version Control/Git|Git]]
-
-

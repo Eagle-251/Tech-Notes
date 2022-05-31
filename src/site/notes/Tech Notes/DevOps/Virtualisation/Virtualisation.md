@@ -3,8 +3,3 @@
 ---
 
 # Virtualisation
-
-- **[[Tech Notes/DevOps/Virtualisation/Virtualisation|Virtualisation]]**
-	- [[Tech Notes/DevOps/Virtualisation/LibVirt|LibVirt]]
-
-
