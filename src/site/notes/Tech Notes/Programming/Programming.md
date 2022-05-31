@@ -3,8 +3,3 @@
 ---
 
 # Programming
-
-- **[[Tech Notes/Programming/Programming|Programming]]**
-	- **[[Tech Notes/Programming/Go/Go|Go]]**
-
-
