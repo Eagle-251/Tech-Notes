@@ -3,13 +3,6 @@
 ---
 
 # Golang
-
-- **[[Tech Notes/Programming/Go/Go|Go]]**
-	- **Syntax**
-		- [[Tech Notes/Programming/Go/Syntax/Types|Types]]
-		- [[Tech Notes/Programming/Go/Syntax/Variables|Variables]]
-
-
 ## Overview
 
 Golang is a compiled language. It is therefore fast. Not as fast as C or C++ but faster than Rust but with the memory safety of rust.
