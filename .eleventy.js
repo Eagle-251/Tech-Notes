@@ -3,6 +3,7 @@ const markdownIt = require("markdown-it");
 const fs = require('fs');
 const matter = require('gray-matter');
 const faviconPlugin = require('eleventy-favicon');
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 module.exports = function(eleventyConfig) {
 
     let markdownLib = markdownIt({
@@ -176,6 +177,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addPassthroughCopy("src/site/img");
+    eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addPlugin(faviconPlugin, { destination: 'dist' });
 
     return {
