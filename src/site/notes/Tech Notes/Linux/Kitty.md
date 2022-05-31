@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/tech-notes/linux/kitty/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+
 # Kitty Terminal 
 
 ## Tabs
