@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/tech-notes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/tech-notes/tech-notes/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Tech Notes
