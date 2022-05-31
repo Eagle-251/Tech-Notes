@@ -13,8 +13,5 @@ Welcome! This site is a central collection for my notes and/or cheatsheet on too
 	- **[[Tech Notes/MarkUp/MarkUp|MarkUp]]**
 	- **[[Tech Notes/Programming/Programming|Programming]]**
 	- **[[Tech Notes/Shells/Shells|Shells]]**
-		- [[Tech Notes/Shells/Bash|Bash]]
-		- [[Tech Notes/Shells/Fish|Fish]]
-		- [[Tech Notes/Shells/zsh|zsh]]
 
 
