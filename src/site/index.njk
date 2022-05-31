@@ -9,7 +9,6 @@
     <div class="content">
       {%- for garden in collections.gardenEntry -%}
         {{ garden.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-        {{garden.templateContent | link | highlight | safe }}
       {%- endfor -%}
     </div>
   </body>
