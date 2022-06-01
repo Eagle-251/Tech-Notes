@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/programming/go/go/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"Go","parent":"Programming"},"permalink":"/tech-notes/programming/go/go/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Golang
