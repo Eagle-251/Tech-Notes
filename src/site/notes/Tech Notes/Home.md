@@ -8,7 +8,7 @@
 Welcome! These are my collected notes from learning about and using tools.
 
 
-- **[[Tech Notes/Tech Notes|Tech Notes]]**
+- Tech Notes
 	- **DevOps**
 		- **Infrastructure As Code**
 			- [[Tech Notes/DevOps/Infrastructure As Code/Ansible|Ansible]]
