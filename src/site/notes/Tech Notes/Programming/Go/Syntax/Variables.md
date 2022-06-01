@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/programming/go/syntax/variables/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"Variables","parent":"Syntax"},"permalink":"/tech-notes/programming/go/syntax/variables/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ## Variables
