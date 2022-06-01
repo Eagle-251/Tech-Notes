@@ -18,8 +18,7 @@ developing and testing.
 wget https://releases.hashicorp.com/vagrant/2.2.19/vagrant_2.2.19_x86_64.deb
 sudo apt install ./vagrant_2.2.19_x86_64.deb
 ```
-TODO
-- [ ] Create bash script to template url, similar to [[Tech Notes/DevOps/Version Control/Git#Template a release URL from Github API|Git#Template a release URL from Github API]]
+
 
 **Via Repo**
 
