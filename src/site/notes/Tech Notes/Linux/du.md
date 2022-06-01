@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/du/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"du","parent":"Linux"},"permalink":"/tech-notes/linux/du/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - ### `du`
