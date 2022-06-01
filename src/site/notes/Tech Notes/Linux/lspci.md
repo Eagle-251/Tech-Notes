@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/lspci/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"lspci","parent":"Linux"},"permalink":"/tech-notes/linux/lspci/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - ### `lspci`
