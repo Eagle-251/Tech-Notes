@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/lsblk/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"lsblk","parent":"Linux"},"permalink":"/tech-notes/linux/lsblk/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - ### `lsblk`
