@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/shells/bash/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"Bash","parent":"Shells"},"permalink":"/tech-notes/shells/bash/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Bash Shell
