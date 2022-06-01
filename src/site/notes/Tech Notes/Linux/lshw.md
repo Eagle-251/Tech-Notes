@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/lshw/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"lshw","parent":"Linux"},"permalink":"/tech-notes/linux/lshw/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - ### `lshw`
