@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/dev-ops/infrastructure-as-code/ansible/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"Ansible","parent":"Infrastructure As Code"},"permalink":"/tech-notes/dev-ops/infrastructure-as-code/ansible/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
