@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/kitty/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"Kitty","parent":"Linux"},"permalink":"/tech-notes/linux/kitty/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
