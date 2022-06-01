@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/lsusb/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"lsusb","parent":"Linux"},"permalink":"/tech-notes/linux/lsusb/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - ### `lsusb`
