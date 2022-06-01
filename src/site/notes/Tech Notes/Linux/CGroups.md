@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/c-groups/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"CGroups","parent":"Linux"},"permalink":"/tech-notes/linux/c-groups/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
