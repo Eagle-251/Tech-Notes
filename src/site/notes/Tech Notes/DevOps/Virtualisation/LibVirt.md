@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/dev-ops/virtualisation/lib-virt/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"LibVirt","parent":"Virtualisation"},"permalink":"/tech-notes/dev-ops/virtualisation/lib-virt/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # LibVirt
