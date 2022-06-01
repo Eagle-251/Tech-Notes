@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/direnv/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"Direnv","parent":"Linux"},"permalink":"/tech-notes/linux/direnv/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Direnv
