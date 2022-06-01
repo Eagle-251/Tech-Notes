@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/shells/fish/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"Fish","parent":"Shells"},"permalink":"/tech-notes/shells/fish/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Fish
