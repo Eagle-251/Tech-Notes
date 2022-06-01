@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/df/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"df","parent":"Linux"},"permalink":"/tech-notes/linux/df/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
