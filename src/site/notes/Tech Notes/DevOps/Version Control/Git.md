@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/dev-ops/version-control/git/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"Git","parent":"Version Control"},"permalink":"/tech-notes/dev-ops/version-control/git/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 ## Git
