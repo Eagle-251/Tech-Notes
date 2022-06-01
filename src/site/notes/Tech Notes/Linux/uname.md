@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/linux/uname/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"eleventyNavigation":{"key":"uname","parent":"Linux"},"permalink":"/tech-notes/linux/uname/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 - ### `uname`
