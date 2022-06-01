@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-notes/dev-ops/infrastructure-as-code/vagrant/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-pass-frontmatter":true,"eleventyNavigation":{"key":"Vagrant","parent":"Infrastructure As Code"},"permalink":"/tech-notes/dev-ops/infrastructure-as-code/vagrant/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
